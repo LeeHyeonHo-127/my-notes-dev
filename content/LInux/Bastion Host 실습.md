@@ -317,7 +317,7 @@ haproxy를 실행하고 확인해봅니다.
 
 Bastion Host가 80요청을 방화벽을 통해 막았으니, HAProxy는 로드밸런싱 할 수 없었습니다.
 
-아래 명령어로 http를 방화벽에서 열러줍니다.
+아래 명령어로 http를 방화벽에서 열어줍니다.
 ```
 firewall-cmd --permanent --add-service=http --zone=external
 firewall-cmd --reload
