@@ -2,6 +2,7 @@
 tags:
   - 리눅스
 date: 2024-03-19
+title: Bastion Host 실습
 ---
 # Bastion Host란?
 
@@ -33,7 +34,7 @@ CentOS 8 : WEB 서버 01, DB-Master
 CentOS 8-2 : WEB 서버 02, DB-Slave
 Window2003-1 : WEB 서버 03, DNS 서버
 
-## 1. Setting 하기
+## Setting 하기
 
 
 ```
