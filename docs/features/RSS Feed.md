@@ -3,3 +3,4 @@ Quartz emits an RSS feed for all the content on your site by generating an `inde
 ## Configuration
 
 This functionality is provided by the [[ContentIndex]] plugin. See the plugin page for customization options.
+
