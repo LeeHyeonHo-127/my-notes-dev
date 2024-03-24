@@ -1,5 +1,8 @@
 ---
-tags: aws
+tags:
+  - aws
+date: 2024-03-22
+title: AWS IAM (Identity and Access Management)
 ---
 # IAM 이란 무엇일까?
 
