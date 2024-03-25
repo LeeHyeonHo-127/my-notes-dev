@@ -142,3 +142,7 @@ Spot Fleets은 자동으로 Spot Instance를 최저의 가격에 요청합니다
 		- On-Demand 가격보다 비싼 풀에서는 시작하지 않습니다.
 	 - CapacityOptimized: 원하는 인스턴스 수에 맞는 최적의 용량을 가진 풀을 갖게됩니다.
 	 - priceCapacityOptimized(추천) : 가장 용량이 큰 Pool을 선택 후 가격이 낮은 pool들을 순차적으로 선택합니다. 대부분의 workload에 적합한 선택입니다.
+
+---
+관련 글
+[[Saving Plan VS Reserved Plan]]

@@ -5,6 +5,7 @@ relate: "[[[Udemy] - Amazone EC2(2)]]"
 date: 2024-03-25
 title: Amazone EC2(1)
 ---
+
 ![[Pasted image 20240325104749.png | 600]]
 
 # EC2란?
@@ -77,9 +78,11 @@ OLTP systems(고빈도의 온라인 거래 시스템), 관계형 DB, NoSQL DB, C
 
 
 
-
-
 ---
+다음 글
+[[[Udemy] - Amazone EC2(2)]]
+
+
 참조 
 https://aws.amazon.com/ko/pm/ec2/?gclid=CjwKCAjwnv-vBhBdEiwABCYQA5NebTCR6PunQjVTyIbACGOOsDrYFOX-TdUzK8smGoxjF5oxtsDX-xoCtYwQAvD_BwE&trk=4c74fd91-5632-4f18-ac76-a6c66c92e185&sc_channel=ps&ef_id=CjwKCAjwnv-vBhBdEiwABCYQA5NebTCR6PunQjVTyIbACGOOsDrYFOX-TdUzK8smGoxjF5oxtsDX-xoCtYwQAvD_BwE:G:s&s_kwcid=AL!4422!3!477203497843!e!!g!!ec2!11549843702!111422708806
 

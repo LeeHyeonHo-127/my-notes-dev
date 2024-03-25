@@ -38,3 +38,7 @@ Security Group은 다른 Security Group을 참조해서 규칙을 정할 수 있
 
 ![[Pasted image 20240325142909.png]]
 (다른 보안 그룹을 이용해 rule을 지정하는 실습입니다. 위 다이어그램의 보안 그룹과는 무관합니다. )
+
+---
+관련 글
+[[[[Udemy] - Amazone EC2(1)]]
