@@ -145,4 +145,5 @@ Spot Fleets은 자동으로 Spot Instance를 최저의 가격에 요청합니다
 
 ---
 관련 글
-[[Saving Plan VS Reserved Plan]]
+[[Amazone EC2(1)]]
+[[Security Groups]]]

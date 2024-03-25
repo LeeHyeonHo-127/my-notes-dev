@@ -79,8 +79,8 @@ OLTP systems(고빈도의 온라인 거래 시스템), 관계형 DB, NoSQL DB, C
 
 
 ---
-다음 글
-[[[Udemy] - Amazone EC2(2)]]
+관련 글
+[[Amazone EC2(2)]]
 
 
 참조 
