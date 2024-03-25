@@ -41,4 +41,5 @@ Security Group은 다른 Security Group을 참조해서 규칙을 정할 수 있
 
 ---
 관련 글
-[[[[Udemy] - Amazone EC2(1)]]
+[[[Udemy] - Amazone EC2(1)]]
+
