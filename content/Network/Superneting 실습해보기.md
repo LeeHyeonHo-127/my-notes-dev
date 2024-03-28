@@ -1,5 +1,6 @@
 ---
-tags: 네트워크
+tags:
+  - 네트워크
 ---
 Superneting을 실습합니다.
 C Class IP의 Network Bit중 우측에서 4개의 Bit를 Host Bit로 사용해 봅니다.
